@@ -5,7 +5,7 @@ The goal of the project is to engineer a small flying wing capable of autonomous
 # Phase 1 : Platform
 
 ToDo :
-- [ ] Design effective and simple flying wing using basic materials.
+- [ ] Design effective and simple flying wing using basic materials. Option 2 : Choose an off the shelf base diy flying wing/plane.
 - [ ] Implement motors and servos.
 - [ ] Design the flight computer based on esp32.
 - [ ] Produce flight computer and develop flight software.
